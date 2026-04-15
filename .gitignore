@@ -1,0 +1,24 @@
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# Python cache / build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.envrc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
